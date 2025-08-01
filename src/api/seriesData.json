@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Big Mouth",
+    "img_url": "/images/bigmouth.jpg",
+    "rating": "3.5",
+    "description": "Big Mouth follows Park Chang-ho, an underperforming lawyer with a win rate of only 10%...",
+    "genre": "Crime, Thriller, Mystery, Legal Drama",
+    "cast": "Lee Jong-suk , Im Yoon-ah",
+    "watch_url": "https://example.com/queen-of-tears"
+  },
+  
+  {
+    "name": "When Life Gives You Tangerines",
+    "img_url": "/images/images.jpg",
+    "rating": "4.5",
+    "description": "Queen of Tears follows the emotional journey...",
+    "genre": "RomCom",
+    "cast": "Kim Soo-hyun, Kim Ji-won",
+    "watch_url": "https://example.com/queen-of-tears"
+  },
+  
+  {
+    "name": "Nevertheless",
+    "img_url": "/images/Nevertheless.jpg",
+    "rating": "5",
+     "description": "A flirtatious art student who doesn't believe in love meets a charming but mysterious classmate, and they begin a complicated and emotionally intense relationship.",
+    "genre": "Romance, Drama",
+    "cast": "Han So-hee, Song Kang",
+    "watch_url": "https://www.netflix.com/title/81473182"
+
+  },
+  
+  {
+    "name": "Queen Of Tears",
+    "img_url": "/images/quote.jpg",
+    "rating": "4.5",
+    "description": "Queen of Tears follows the emotional journey...",
+    "genre": "RomCom",
+    "cast": "Kim Soo-hyun, Kim Ji-won",
+    "watch_url": "https://example.com/queen-of-tears"
+  },
+  
+  {
+    "name": "Squid Game",
+    "img_url": "/images/squidgames.jpg",
+    "rating": "5",
+    "description": "A high school girl....",
+    "genre": "RomCom, School, Drama",
+    "cast": "Moon Ga-young, Cha Eun-woo, Hwang In-yeop",
+   
+     "watch_url": "https://www.netflix.com/title/81040344"
+
+  },
+  
+  {
+    "name": "True beauty",
+    "img_url": "/images/true-beauty.jpg",
+  
+    "rating": 4.8,
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in deadly children's games for a life-changing prize — but the cost is their lives.",
+    "genre": "Thriller, Survival, Action",
+    "cast": "Lee Jung-jae, Park Hae-soo, HoYeon Jung",
+    "watch_url": "https://www.viki.com/tv/37374c-true-beauty"
+
+  }
+  
+
+]
